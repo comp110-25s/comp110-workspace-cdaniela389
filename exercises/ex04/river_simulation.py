@@ -1,4 +1,6 @@
-from exercises.ex04.river import River
+"""File of Simulation of the River."""
+
+from exercises.EX04.river import River
 
 my_river: River = River(10, 2)
 
